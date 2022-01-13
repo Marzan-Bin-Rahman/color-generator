@@ -36,3 +36,6 @@ body{
     transition: transform ease-in 900ms, background-color ease-in 700ms, border-color ease-in 1s, box-shadow ease-out 800ms;
     box-shadow: -3px -1px 19px 9px rgb(31, 214, 129);
 }
+#hex{
+    text-transform: uppercase;
+}
